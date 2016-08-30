@@ -1,0 +1,55 @@
+
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+
+
+body{
+    padding:25px; 
+    background-color:#1a1a1a; 
+}
+
+header{
+    color:#fff; 
+    margin-bottom:25px;
+    font-family: 'Baloo Tamma', cursive;
+}
+
+header img{
+    border:2px solid #fff; 
+}
+
+.btn-primary{
+    background:orange; 
+}
+
+#add-btn-field{
+    height:33px; 
+    font-size:1.2em;
+    margin-top:15px; 
+}
+
+.gif-btn{
+    margin:15px 5px; 
+    cursor:pointer; 
+}
+
+.gif-view{
+    color:#fff; 
+}
+
+.gif-div{
+    display: inline-block; 
+}
+
+.gif-view img{
+    cursor:pointer; 
+    margin:25px 5px;
+    
+}
+
+#more-results{
+    margin:15px 0;  
+}
+
+.image-search{
+    margin:25px; 
+}
