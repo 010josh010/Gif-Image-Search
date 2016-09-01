@@ -4,7 +4,8 @@
 
 body{
     padding:25px; 
-    background-color:#1a1a1a; 
+    background-color:#1a1a1a;
+    font-size:2em; 
 }
 
 header{
@@ -12,6 +13,8 @@ header{
     margin-bottom:25px;
     font-family: 'Baloo Tamma', cursive;
 }
+
+
 
 header img{
     border:2px solid #fff; 
